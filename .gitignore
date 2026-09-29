@@ -1,0 +1,13 @@
+# OS Junk Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Environment Secrets
+*.log
+*.env
+*.bak
+
+# SDR & Local App Data
+/configs/sdrtrunk/recordings/
+/configs/sdrtrunk/logs/
