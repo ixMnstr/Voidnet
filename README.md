@@ -13,7 +13,7 @@ Welcome to the official documentation for **VOIDNET**, a dedicated homelab envir
            │
   [ FortiGate 81E PoE ] ── (Core Security Edge & Routing)
            │
-   [ Aruba 2530 24G ] ── (J9775A Managed Switch / VLAN Trunking)
+   [ Aruba 2530 48G ] ── (J9775A Managed Switch / VLAN Trunking)
            │
   ┌────────┴───────────────────────────┐
   │                                   │
