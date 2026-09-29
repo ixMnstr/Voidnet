@@ -1,11 +1,5 @@
-# Contributing to VOIDNET Documentation
+# Repository Notice
 
-Thank you for taking the time to contribute!
+This is a personal, proprietary documentation repository for the VOIDNET infrastructure. 
 
-## How to Suggest Improvements
-- **Documentation Fixes:** If you spot a typo, broken link, or outdated hardware configuration, feel free to submit a Pull Request directly.
-- **New Nodes / Hardware:** For major changes to network topology or hardware configs, please open an Issue first to discuss the proposed updates.
-
-## Style Guidelines
-- Keep markdown headings simple (`#`, `##`, `###`).
-- Wrap hardware interface names or IP ranges in `inline code blocks`.
+External contributions, pull requests, and forks are not accepted, and unauthorized use or reproduction of these materials is strictly prohibited.
